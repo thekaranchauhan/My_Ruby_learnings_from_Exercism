@@ -1,0 +1,1 @@
+class CustomSet < Set ; end
